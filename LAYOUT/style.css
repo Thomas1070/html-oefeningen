@@ -1,0 +1,17 @@
+article {
+    background-color: salmon;
+}
+
+body{
+    background-color: lightblue;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+}
